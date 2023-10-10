@@ -186,6 +186,9 @@ p {
   }
 }
 @media only screen and (min-width: 1200px) {
+  .submit {
+    margin-top: 50px;
+  }
   .alertThankyou {
     width: 60%;
   }
